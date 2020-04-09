@@ -1,0 +1,56 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="blockchain-multicloud" audience="service" href="/docs/blockchain-multicloud/index.html" path="blockchain-multicloud"}
+IBM Blockchain Platform for Multicloud
+
+	{: .navgroup id="learn"}
+	index.md
+	about-multicloud.md
+	howto/pricing-software.md
+	blockchain_component_overview.md
+	security.md
+	data-residency.md
+	howto/ibp-v2-faq.md
+	/blockchain/blockchain-disclaimer
+	{: .navgroup-end}
+
+	{: .navgroup id="howto"}
+	ICP_console_setup.md
+	howto/console-helm-install.md
+	howto/console-deploy-icp.md
+
+	{: .topicgroup}
+	Using the IBM Blockchain Platform console
+		howto/ibp-console-build-network.md
+		howto/ibp-console-join-network.md
+		howto/ibp-console-smart-contracts.md
+		howto/ibp-console-create-app.md
+		howto/ibp-console-import-nodes.md
+		howto/ibp-console-identities.md
+		howto/ibp-console-organizations.md
+		howto/ibp-console-advanced-channel.md
+		howto/ibp-console-govern-components.md
+		/blockchain/blockchain-operations_service
+
+	{: .topicgroup}
+	Developing smart contracts and applications
+		vscode-extension.md
+		best_practices.md
+
+	howto/console-icp-manage.md
+	howto/ibp-v2-apis.md
+	{: .navgroup-end}
+
+	{: .navgroup id="reference"}
+	[API reference](https://cloud.ibm.com/apidocs/blockchain)
+	/blockchain/blockchain-hyperledger-fabric
+	/blockchain/blockchain-k8s-overview
+	glossary.md
+	{: .navgroup-end}
+
+	{: .navgroup id="help"}
+	knownissues-saas.md
+	howto/ibp-v2-troubleshooting.md
+	ibmblockchain_support.md
+	{: .navgroup-end}
