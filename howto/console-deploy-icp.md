@@ -6,7 +6,7 @@ lastupdated: "2019-07-25"
 
 keywords: IBM Cloud Private, IBM Blockchain Platform console, deploy, resource requirements, storage, parameters
 
-subcollection: blockchain
+subcollection: blockchain-multicloud
 
 ---
 

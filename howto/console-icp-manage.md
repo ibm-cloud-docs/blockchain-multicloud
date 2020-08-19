@@ -6,7 +6,7 @@ lastupdated: "2020-03-23"
 
 keywords: IBM Cloud Private, IBM Blockchain Platform, administrate, add user, remove user, password, APIs, authentication, view logs
 
-subcollection: blockchain
+subcollection: blockchain-multicloud
 
 ---
 

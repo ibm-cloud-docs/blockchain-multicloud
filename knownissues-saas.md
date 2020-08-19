@@ -5,7 +5,7 @@ copyright:
 
 lastupdated: "2020-03-31"
 
-subcollection: blockchain
+subcollection: blockchain-multicloud
 
 ---
 
@@ -28,6 +28,3 @@ This page describes known issues that you might encounter when you use {{site.da
 {: #known-issues-ica}
 
 The creation of intermediate CAs using the console or APIs on the {{site.data.keyword.blockchainfull_notm}} Platform network is not currently supported.
-
-
-
