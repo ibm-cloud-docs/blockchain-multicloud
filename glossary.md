@@ -6,7 +6,7 @@ lastupdated: "2020-03-12"
 
 keywords: IBM Blockchain, IBM Blockchain Platform, terms, Fabric, Raft, CouchDB, consortium, MSP
 
-subcollection: blockchain
+subcollection: blockchain-multicloud
 
 ---
 
