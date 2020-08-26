@@ -141,7 +141,7 @@ You can use Key Escrow to recover lost private keys. This needs to be performed 
 ### TLS
 {: #console-icp-about-security-tls}
 
-[Transport Layer Security](https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm){: external} (TLS) is embedded in the trust model of Hyperledger Fabric. All {{site.data.keyword.blockchainfull_notm}} Platform components use TLS to authenticate and communicate with each other. Therefore, nodes on {{site.data.keyword.cloud_notm}} Private need to be able to complete a TLS handshake with other components and your applications. One implication of this is that you need to enable passthru, by using white listing for example, in your firewall from client apps to your nodes.
+[Transport Layer Security](https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm){: external} (TLS) is embedded in the trust model of Hyperledger Fabric. All {{site.data.keyword.blockchainfull_notm}} Platform components use TLS to authenticate and communicate with each other. Therefore, nodes on {{site.data.keyword.cloud_notm}} Private need to be able to complete a TLS handshake with other components and your applications. One implication of this is that you need to enable passthru, by using an allowlist for example, in your firewall from client apps to your nodes.
 
 ### Application security
 {: #console-icp-about-security-appl}
